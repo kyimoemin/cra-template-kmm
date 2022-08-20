@@ -1,12 +1,16 @@
 {
   "name": "cra-template-kmm",
-  "version": "1.0.0",
+  "author": {
+    "name": "Kyi Moe Min",
+    "url": "https://github.com/kyimoemin"
+  },
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
-  "description": "The base template for Create React App.",
+  "description": "The custom template for Create React App. with libraries",
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/create-react-app.git",

@@ -1,4 +1,4 @@
-# CRA Custom Template (without antd)
+# CRA Custom Template
 
 ## used libraries
 
