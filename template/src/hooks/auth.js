@@ -1,5 +1,5 @@
 import { notification } from "antd";
-import { useMutation } from "react-query";
+import { useMutation } from "@tanstack/react-query";
 import { useDispatch, useSelector } from "react-redux";
 import { apis } from "src/apis";
 import { actions } from "src/redux/actions";

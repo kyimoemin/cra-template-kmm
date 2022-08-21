@@ -3,7 +3,7 @@
 ## used libraries
 
 1. axios
-2. react-query
+2. @tanstack/react-query
 3. redux
 4. react router
 5. tailwindcss
